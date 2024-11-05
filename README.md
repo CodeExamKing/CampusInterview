@@ -21,12 +21,12 @@
    5. [手撕算法题](https://www.yuque.com/offer-guide/ttxsdi/ckbtkmihhdfo5hl2#I8khg)
    6. [反问环节](https://www.yuque.com/offer-guide/ttxsdi/ckbtkmihhdfo5hl2#CaQIP)
 4. [校招一场面试详细过程（央国企银行篇）](https://www.yuque.com/offer-guide/ttxsdi/ckbtkmihhdfo5hl2#gpp0t)
-   1. 校招面试考察重点
-   2. 自我介绍
-   3. 结构化问题
-   4. 半结构化问题
-   5. 无领导小组讨论
-   6. 反问环节
+   1. [校招面试考察重点](https://www.yuque.com/offer-guide/ttxsdi)
+   2. [自我介绍](https://www.yuque.com/offer-guide/ttxsdi)
+   3. [结构化问题](https://www.yuque.com/offer-guide/ttxsdi)
+   4. [半结构化问题](https://www.yuque.com/offer-guide/ttxsdi)
+   5. [无领导小组讨论](https://www.yuque.com/offer-guide/ttxsdi)
+   6. [反问环节](https://www.yuque.com/offer-guide/ttxsdi)
 5. [录用](录用)
    1. [三方协议](https://www.yuque.com/offer-guide/ttxsdi/ckbtkmihhdfo5hl2#Brspg)
    2. [两方协议](https://www.yuque.com/offer-guide/ttxsdi/ckbtkmihhdfo5hl2#c1Fxn)
@@ -41,11 +41,11 @@
 
 # offer第1步：简历修改篇
 
-### 《简历这么写，100%通过筛选》（互联网技术篇）
+### [《简历这么写，100%通过筛选》（互联网技术篇）](https://www.yuque.com/offer-guide/ttxsdi)
 
-### 《简历这么写，100%通过筛选》（互联网非技术 + 银行 + 央国企篇）
+### [《简历这么写，100%通过筛选》（互联网非技术 + 银行 + 央国企篇）](https://www.yuque.com/offer-guide/ttxsdi)
 
-### 优质简历模板下载
+### [优质简历模板下载](https://www.yuque.com/offer-guide/ttxsdi)
 
 1. [《简历这么写，100%通过筛选》（互联网技术篇）](https://www.yuque.com/offer-guide/ttxsdi/by2dql4xhdrtbyt4)
    1. [简历重要性](https://www.yuque.com/offer-guide/ttxsdi/by2dql4xhdrtbyt4#vD7bC)
@@ -147,7 +147,6 @@
 
 ## 行测测评(北森/智鼎/赛码)
 
-| 校招测评请进👉：[**北森 2 天拿 95 分高分稳过，必看！**](https://www.yuque.com/offer-guide/ttxsdi/dvkuvzgpcihq4ld8) |          |                                                              |
 | ------------------------------------------------------------ | -------- | ------------------------------------------------------------ |
 | 行测系统                                                     | 备考策略 | 资源下载                                                     |
 | <font style="color:rgb(51, 51, 51);">北森</font>             | 备考策略 | 链接：[https://pan.baidu.com/s/10r0dBMkDa18FajCrNLzN9Q?pwd=3o1l](https://pan.baidu.com/s/10r0dBMkDa18FajCrNLzN9Q?pwd=3o1l) |
@@ -169,7 +168,6 @@
 
 ### 第一梯队
 
-| 校招互联网算法编程笔试请进👉：[校招算法笔试 100% 通过！](说) |          |                                                              |
 | ----------------------------------------------------------- | -------- | ------------------------------------------------------------ |
 | 公司                                                        | 备考策略 | 资源下载                                                     |
 | <font style="color:rgb(51, 51, 51);">华为</font>            | 备考策略 | [链接: https://pan.baidu.com/s/11eexm4YYC3lls_u2GqbF-Q?pwd=eqi1 提取码: eqi1](https://pan.baidu.com/s/11eexm4YYC3lls_u2GqbF-Q?pwd=eqi1) |
@@ -191,12 +189,10 @@
 | <font style="color:rgb(51, 51, 51);">微软</font>            | 备考策略 | [链接: https://pan.baidu.com/s/1msDMcHKDdc79THdIrgM6XA?pwd=avr4 提取码: avr4](https://pan.baidu.com/s/1msDMcHKDdc79THdIrgM6XA?pwd=avr4) |
 | <font style="color:rgb(51, 51, 51);">谷歌Google</font>      | 备考策略 | [链接: https://pan.baidu.com/s/1OnIRvMroZhKvFe3FIapZAQ?pwd=grdy 提取码: grdy](https://pan.baidu.com/s/1OnIRvMroZhKvFe3FIapZAQ?pwd=grdy) |
 | <font style="color:rgb(51, 51, 51);">联想</font>            | 备考策略 | [链接: https://pan.baidu.com/s/177prauqS0wvRaJwBn8RxHQ?pwd=u7fm 提取码: u7fm](https://pan.baidu.com/s/177prauqS0wvRaJwBn8RxHQ?pwd=u7fm) |
-| 校招互联网算法编程笔试请进👉：[校招算法笔试 100% 通过！](说) |          |                                                              |
 
 
 ### 第二梯队
 
-| 校招互联网算法编程笔试请进👉：[校招算法笔试 100% 通过！](说) |          |                                                              |
 | ----------------------------------------------------------- | -------- | ------------------------------------------------------------ |
 | <font style="color:rgb(51, 51, 51);">公司</font>            | 备考策略 | 资源下载                                                     |
 | <font style="color:rgb(51, 51, 51);">微众银行</font>        | 备考策略 | [链接: https://pan.baidu.com/s/1Ll14WcS2HFHK9cFCUqAu1g?pwd=r8fs 提取码: r8fs](https://pan.baidu.com/s/1Ll14WcS2HFHK9cFCUqAu1g?pwd=r8fs) |
@@ -219,12 +215,10 @@
 | <font style="color:rgb(51, 51, 51);">去哪儿网</font>        | 备考策略 | [链接: https://pan.baidu.com/s/1vDwk5ngAH1_AbtiUId9Wsw?pwd=3avu 提取码: 3avu](https://pan.baidu.com/s/1vDwk5ngAH1_AbtiUId9Wsw?pwd=3avu) |
 | <font style="color:rgb(51, 51, 51);">小红书</font>          | 备考策略 | [链接: https://pan.baidu.com/s/1Nk2kGmC97-T0wVbL0O1KTw?pwd=akhn 提取码: akhn](https://pan.baidu.com/s/1Nk2kGmC97-T0wVbL0O1KTw?pwd=akhn) |
 | <font style="color:rgb(51, 51, 51);">米哈游</font>          | 备考策略 | 链接：[https://pan.baidu.com/s/1ue-qGpoVgHu3T-LVwCPYUQ?pwd=wn9e](https://pan.baidu.com/s/1ue-qGpoVgHu3T-LVwCPYUQ?pwd=wn9e) |
-| 校招互联网算法编程笔试请进👉：[校招算法笔试 100% 通过！](说) |          |                                                              |
 
 
 ### 硬件篇
 
-| 校招互联网算法编程笔试请进👉：[校招算法笔试 100% 通过！](说) |          |                                                              |
 | ----------------------------------------------------------- | -------- | ------------------------------------------------------------ |
 | <font style="color:rgb(51, 51, 51);">公司</font>            | 备考策略 | 资源下载                                                     |
 | <font style="color:rgb(51, 51, 51);">海信</font>            | 备考策略 | [链接: https://pan.baidu.com/s/19vYdKkzowLknWYGys2--Qg?pwd=j696 提取码: j696](https://pan.baidu.com/s/19vYdKkzowLknWYGys2--Qg?pwd=j696) |
@@ -233,12 +227,10 @@
 | <font style="color:rgb(51, 51, 51);">OPPO</font>            | 备考策略 | [链接: https://pan.baidu.com/s/1hjyEqwKmN6OPjrC7i4AJyA?pwd=cbkj 提取码: cbkj](https://pan.baidu.com/s/1hjyEqwKmN6OPjrC7i4AJyA?pwd=cbkj) |
 | <font style="color:rgb(51, 51, 51);">VIVO</font>            | 备考策略 | [链接: https://pan.baidu.com/s/1Zdm-_x9XMtI91koKwQL07Q?pwd=yy7w 提取码: yy7w](https://pan.baidu.com/s/1Zdm-_x9XMtI91koKwQL07Q?pwd=yy7w) |
 | <font style="color:rgb(51, 51, 51);">小米</font>            | 备考策略 | [链接: https://pan.baidu.com/s/1AhnMG-kwDGDmqKj9ehHxRg?pwd=tzuj 提取码: tzuj](https://pan.baidu.com/s/1AhnMG-kwDGDmqKj9ehHxRg?pwd=tzuj) |
-| 校招互联网算法编程笔试请进👉：[校招算法笔试 100% 通过！](说) |          |                                                              |
 
 
 ## 央国企笔试篇
 
-| 校招央国企笔试请进👉：[校招央国企笔试，稳稳进面指南！](s) |          |                                                              |
 | -------------------------------------------------------- | -------- | ------------------------------------------------------------ |
 | <font style="color:rgb(51, 51, 51);">公司</font>         | 备考策略 | 资源下载                                                     |
 | <font style="color:rgb(51, 51, 51);">中国移动</font>     | 备考策略 | [链接: https://pan.baidu.com/s/1qXAlyCgp_QtcZ3h7P7pfBQ?pwd=n1ew 提取码: n1ew](https://pan.baidu.com/s/1qXAlyCgp_QtcZ3h7P7pfBQ?pwd=n1ew) |
@@ -260,36 +252,30 @@
 | <font style="color:rgb(51, 51, 51);">国家电网</font>     | 备考策略 | [链接: https://pan.baidu.com/s/14bQKf_Ti4UG1M7Gnttx3vA?pwd=e9r8 提取码: e9r8](https://pan.baidu.com/s/14bQKf_Ti4UG1M7Gnttx3vA?pwd=e9r8) |
 | <font style="color:rgb(51, 51, 51);">南方电网</font>     | 备考策略 | [链接: https://pan.baidu.com/s/1g4MwvEe6uSe9Fr5dh7cmlg?pwd=acz8 提取码: acz8](https://pan.baidu.com/s/1g4MwvEe6uSe9Fr5dh7cmlg?pwd=acz8) |
 | <font style="color:rgb(51, 51, 51);">陕西延长石油</font> | 备考策略 | [链接: https://pan.baidu.com/s/1D4DUAy4hZvcS87a3xqrW4w?pwd=fgkb 提取码: fgkb](https://pan.baidu.com/s/1D4DUAy4hZvcS87a3xqrW4w?pwd=fgkb) |
-| 校招央国企笔试请进👉：[校招央国企笔试，稳稳进面指南！](s) |          |                                                              |
 
 
 ## 银行笔试篇
 
 ### 央行
 
-| 校招央国企笔试请进👉：[校招央国企笔试，稳稳进面指南！](s) |          |                                                              |
 | -------------------------------------------------------- | -------- | ------------------------------------------------------------ |
 | <font style="color:rgb(51, 51, 51);">公司</font>         | 备考策略 | 资源下载                                                     |
 | 中国人民银行                                             | 备考策略 | [链接: https://pan.baidu.com/s/1sRbe1VXCDf6N9Kdil7u_JA?pwd=cmce 提取码: cmce](https://pan.baidu.com/s/1sRbe1VXCDf6N9Kdil7u_JA?pwd=cmce) |
-| 校招央国企笔试请进👉：[校招央国企笔试，稳稳进面指南！](s) |          |                                                              |
 
 
 ### 政策性银行(3家)
 
-| 校招央国企笔试请进👉：[校招央国企笔试，稳稳进面指南！](s)     |          |                                                              |
 | ------------------------------------------------------------ | -------- | ------------------------------------------------------------ |
 | <font style="color:rgb(51, 51, 51);">公司</font>             | 备考策略 | 资源下载                                                     |
 | <font style="color:rgb(51, 51, 51);">国家开发银行</font>     | 备考策略 | 链接：[https://pan.baidu.com/s/16RUzi2NYNOQF0x_XNYyqGw?pwd=uo6t](https://pan.baidu.com/s/16RUzi2NYNOQF0x_XNYyqGw?pwd=uo6t) <br/>[链接: https://pan.baidu.com/s/1cAjCqkBHBIE3EAPZJY3elA?pwd=vw52 提取码: vw52](https://pan.baidu.com/s/1cAjCqkBHBIE3EAPZJY3elA?pwd=vw52) |
 | <font style="color:rgb(51, 51, 51);">中国进出口银行</font>   | 备考策略 | 链接：[https://pan.baidu.com/s/1tdTGaAS80M4Rsce2HXp_Kg?pwd=sx2m](https://pan.baidu.com/s/1tdTGaAS80M4Rsce2HXp_Kg?pwd=sx2m) |
 | <font style="color:rgb(51, 51, 51);">中国农业发展银行</font> | 备考策略 | 链接：[https://pan.baidu.com/s/12Vrdh-naUy0VMeWtif-L3g?pwd=bnoy](https://pan.baidu.com/s/12Vrdh-naUy0VMeWtif-L3g?pwd=bnoy) <br/>链接：[https://pan.baidu.com/s/12-SmHKFZjHX_fcH5B0aU_Q?pwd=236b](https://pan.baidu.com/s/12-SmHKFZjHX_fcH5B0aU_Q?pwd=236b) <br/>[链接: https://pan.baidu.com/s/1q_bAH9O3hoYclFvHa_NiOg?pwd=94mt 提取码: 94mt](https://pan.baidu.com/s/1q_bAH9O3hoYclFvHa_NiOg?pwd=94mt) |
-| 校招央国企笔试请进👉：[校招央国企笔试，稳稳进面指南！](s)     |          |                                                              |
 
 
 
 
 ### 国有行(6家)
 
-| 校招央国企笔试请进👉：[校招央国企笔试，稳稳进面指南！](s)     |          |                                                              |
 | ------------------------------------------------------------ | -------- | ------------------------------------------------------------ |
 | <font style="color:rgb(51, 51, 51);">公司</font>             | 备考策略 | 资源下载                                                     |
 | <font style="color:rgb(51, 51, 51);">中国工商银行</font>     | 备考策略 | 链接：[https://pan.baidu.com/s/1eUtnO5WH4KVTpG13tQsySQ?pwd=a4ri](https://pan.baidu.com/s/1eUtnO5WH4KVTpG13tQsySQ?pwd=a4ri) <br/>[链接：https://pan.baidu.com/s/1lkDbUuBu6KRnt-WyL0lmFw?pwd=wcj0 提取码：wcj0](https://pan.baidu.com/s/1lkDbUuBu6KRnt-WyL0lmFw?pwd=wcj0) |
@@ -298,12 +284,10 @@
 | <font style="color:rgb(51, 51, 51);">交通银行</font>         | 备考策略 | 链接：[https://pan.baidu.com/s/1dcgIr18wDplH3gckCGN-Eg?pwd=u1vs](https://pan.baidu.com/s/1dcgIr18wDplH3gckCGN-Eg?pwd=u1vs)    [链接：https://pan.baidu.com/s/1_rQg5lRzsu3ZHNP9vfPOCQ?pwd=vrvm 提取码：vrvm](https://pan.baidu.com/s/1_rQg5lRzsu3ZHNP9vfPOCQ?pwd=vrvm)   [链接: https://pan.baidu.com/s/1pf7OG_ixJyAxeRsQgxFf1Q?pwd=ptyz 提取码: ptyz](https://pan.baidu.com/s/1pf7OG_ixJyAxeRsQgxFf1Q?pwd=ptyz) |
 | <font style="color:rgb(51, 51, 51);">中国银行</font>         | 备考策略 | 链接：[https://pan.baidu.com/s/1sHH7mvXoBYDrG9crDnLmqA?pwd=wwc1](https://pan.baidu.com/s/1sHH7mvXoBYDrG9crDnLmqA?pwd=wwc1)    [链接: https://pan.baidu.com/s/1SeGvr457sLbubZ8FGIcqOw?pwd=2ivk 提取码: 2ivk](https://pan.baidu.com/s/1SeGvr457sLbubZ8FGIcqOw?pwd=2ivk)   [链接: https://pan.baidu.com/s/1y-Tq_ZlxiylSKFRt5S1gKQ?pwd=ty53 提取码: ty53](https://pan.baidu.com/s/1y-Tq_ZlxiylSKFRt5S1gKQ?pwd=ty53) |
 | <font style="color:rgb(51, 51, 51);">中国邮政储蓄银行</font> | 备考策略 | 链接：[https://pan.baidu.com/s/17UCA2T0aaBspBA_trbb4Ug?pwd=ob6r](https://pan.baidu.com/s/17UCA2T0aaBspBA_trbb4Ug?pwd=ob6r)    [链接: https://pan.baidu.com/s/1qMg4qSKeGkrjuFnR86K7vg?pwd=wbm9 提取码: wbm9](https://pan.baidu.com/s/1qMg4qSKeGkrjuFnR86K7vg?pwd=wbm9)   [链接: https://pan.baidu.com/s/1cs30zOFBmRjl0MbJb_HMRA 提取码: c4uj](https://pan.baidu.com/s/1cs30zOFBmRjl0MbJb_HMRA)   [链接: https://pan.baidu.com/s/1KIco7u0dE5JvxspUMjdOxg 提取码: tkbd](https://pan.baidu.com/s/1KIco7u0dE5JvxspUMjdOxg) |
-| 校招央国企笔试请进👉：[校招央国企笔试，稳稳进面指南！](s)     |          |                                                              |
 
 
 ### 股份制银行(12家)
 
-| 校招央国企笔试请进👉：[校招央国企笔试，稳稳进面指南！](s) |          |                                                              |
 | -------------------------------------------------------- | -------- | ------------------------------------------------------------ |
 | <font style="color:rgb(51, 51, 51);">公司</font>         | 备考策略 | 资源下载                                                     |
 | <font style="color:rgb(51, 51, 51);">招商银行</font>     | 备考策略 | 链接：[https://pan.baidu.com/s/11ajwQpMZd_lcVCVLjAYmmA?pwd=3ira](https://pan.baidu.com/s/11ajwQpMZd_lcVCVLjAYmmA?pwd=3ira)    [链接: https://pan.baidu.com/s/1f7eOm8cCG29oGtGw9BAN5A?pwd=8e37 提取码: 8e37](https://pan.baidu.com/s/1f7eOm8cCG29oGtGw9BAN5A?pwd=8e37) |
@@ -318,12 +302,10 @@
 | <font style="color:rgb(51, 51, 51);">恒丰银行</font>     | 备考策略 | 链接：[https://pan.baidu.com/s/1Eqjae0sE6h_-f3D864Xqzg?pwd=6q1g](https://pan.baidu.com/s/1Eqjae0sE6h_-f3D864Xqzg?pwd=6q1g) |
 | <font style="color:rgb(51, 51, 51);">浙商银行</font>     | 备考策略 | [链接: https://pan.baidu.com/s/1RAVzdUIIH_SCTtoA_bRetg?pwd=vrm4 提取码: vrm4](https://pan.baidu.com/s/1RAVzdUIIH_SCTtoA_bRetg?pwd=vrm4) |
 | <font style="color:rgb(51, 51, 51);">渤海银行</font>     | 备考策略 | [链接: https://pan.baidu.com/s/1w4PuiWBIHjh65WQj3fHTow?pwd=5vg1 提取码: 5vg1](https://pan.baidu.com/s/1w4PuiWBIHjh65WQj3fHTow?pwd=5vg1) |
-| 校招央国企笔试请进👉：[校招央国企笔试，稳稳进面指南！](s) |          |                                                              |
 
 
 ### 城商行(124家)
 
-| 校招央国企笔试请进👉：[校招央国企笔试，稳稳进面指南！](s)     |          |                                                              |
 | ------------------------------------------------------------ | -------- | ------------------------------------------------------------ |
 | <font style="color:rgb(51, 51, 51);">公司</font>             | 备考策略 | 资源下载                                                     |
 | <font style="color:rgb(51, 51, 51);">北京银行</font>         | 备考策略 | [链接: https://pan.baidu.com/s/1lgTad_ZMX509mbX0C8C21Q?pwd=4y1q 提取码: 4y1q](https://pan.baidu.com/s/1lgTad_ZMX509mbX0C8C21Q?pwd=4y1q) |
@@ -353,12 +335,10 @@
 | <font style="color:rgb(51, 51, 51);">浙江稠州商业银行</font> | 备考策略 | [链接: https://pan.baidu.com/s/18DMGwXvUzXHoAD8dZu-PLA?pwd=mfv6 提取码: mfv6](https://pan.baidu.com/s/18DMGwXvUzXHoAD8dZu-PLA?pwd=mfv6) |
 | <font style="color:rgb(51, 51, 51);">包商银行</font>         | 备考策略 | [链接: https://pan.baidu.com/s/1Cfj9sGvJTQq5B244arTeBw?pwd=3n5v 提取码: 3n5v](https://pan.baidu.com/s/1Cfj9sGvJTQq5B244arTeBw?pwd=3n5v) |
 | <font style="color:rgb(51, 51, 51);">威海市商业银行</font>   | 备考策略 | [链接: https://pan.baidu.com/s/1nftBlgfk_MUBEX4rJZP5VA?pwd=vu95 提取码: vu95](https://pan.baidu.com/s/1nftBlgfk_MUBEX4rJZP5VA?pwd=vu95) |
-| 校招央国企笔试请进👉：[校招央国企笔试，稳稳进面指南！](s)     |          |                                                              |
 
 
 ### 外资银行
 
-| 校招央国企笔试请进👉：[校招央国企笔试，稳稳进面指南！](s)   |          |                                                              |
 | ---------------------------------------------------------- | -------- | ------------------------------------------------------------ |
 | <font style="color:rgb(51, 51, 51);">公司</font>           | 备考策略 | 资源下载                                                     |
 | <font style="color:rgb(51, 51, 51);">澳新银行</font>       | 备考策略 | [链接: https://pan.baidu.com/s/19SM1hTyUYq9b8uoEedEKiw?pwd=xsjk 提取码: xsjk](https://pan.baidu.com/s/19SM1hTyUYq9b8uoEedEKiw?pwd=xsjk) |
@@ -373,7 +353,6 @@
 | <font style="color:rgb(51, 51, 51);">南洋商业银行</font>   | 备考策略 | [链接: https://pan.baidu.com/s/1a8eUgmcIKuV8FkhOs0wOiw?pwd=st3c 提取码: st3c](https://pan.baidu.com/s/1a8eUgmcIKuV8FkhOs0wOiw?pwd=st3c) |
 | <font style="color:rgb(51, 51, 51);">美国银行</font>       | 备考策略 | [链接: https://pan.baidu.com/s/1AiCqHwiuiq6_nZ8eXsbVFA?pwd=7827 提取码: 7827](https://pan.baidu.com/s/1AiCqHwiuiq6_nZ8eXsbVFA?pwd=7827) |
 | <font style="color:rgb(51, 51, 51);">汇丰银行</font>       | 备考策略 | [链接: https://pan.baidu.com/s/174CCPlpPg5_hZNcx76KARg?pwd=wfhs 提取码: wfhs](https://pan.baidu.com/s/1FUeGdXhHQ5IrpvTOhjZR8Q?pwd=gemu) |
-| 校招央国企笔试请进👉：[校招央国企笔试，稳稳进面指南！](s)   |          |                                                              |
 
 
 
@@ -917,9 +896,9 @@
 
 
 
-# offer第5步：HR面 + 谈薪技巧 + offer选择 + 入职
+# [offer第5步：HR面 + 谈薪技巧 + offer选择 + 入职](https://www.yuque.com/offer-guide/ttxsdi)
 
-## HR 面
+## [HR 面](https://www.yuque.com/offer-guide/ttxsdi)
 
 [公司背调需要注意什么？](https://www.yuque.com/offer-guide/ttxsdi/yz773w51l63g3r0h)
 
