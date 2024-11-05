@@ -1,3 +1,17 @@
+# 笔面王者：校招上岸指南 & 公考沉思录
+**<font style="color:rgb(51, 51, 51);">1、适用于</font>**<font style="color:rgb(51, 51, 51);">：</font>**<font style="color:rgb(51, 51, 51);">应届生校招、冲刺互联网大厂 | 央国企 | 银行、一站式“全网最全校招求职指南”，这里有你求职「互联网 | 央国企 | 银行」所需要的全部信息差。</font>**<font style="color:rgb(51, 51, 51);">该知识库永久公益免费使用，</font>**<font style="color:rgb(51, 51, 51);">也祝您早日上岸</font>**<font style="color:rgb(51, 51, 51);">。</font>
+
+**<font style="color:rgb(51, 51, 51);">2、内容囊括</font>**<font style="color:rgb(51, 51, 51);">：校招求职常见问答 → 简历修改 → 网申投递 → 笔试技巧及题库 → 面试技巧及面经 → 谈薪技巧及offer选择</font>
+
++ <font style="color:rgb(51, 51, 51);">offer第①步：</font>**<font style="color:rgb(51, 51, 51);">简历修改篇</font>**<font style="color:rgb(51, 51, 51);">：个人基本信息 + 项目经历 + 实习经历 + 专业技能 + 科研/奖项 + 10份优质简历模板。</font>
++ <font style="color:rgb(51, 51, 51);">offer第②步：</font>**<font style="color:rgb(51, 51, 51);">网申投递篇</font>**<font style="color:rgb(51, 51, 51);">：最全内推码合辑 + 海投神器 + 5份每日更新的优质投递表。</font>
++ <font style="color:rgb(51, 51, 51);">offer第③步：</font>**<font style="color:rgb(51, 51, 51);">笔试技巧及题库篇</font>**<font style="color:rgb(51, 51, 51);">：北森测评 + 互联网大厂算法笔试 + 央国企行测笔试 + 银行券商保险行测笔试。</font>
++ <font style="color:rgb(51, 51, 51);">offer第④步：</font>**<font style="color:rgb(51, 51, 51);">面试篇(央国企和银行)</font>**<font style="color:rgb(51, 51, 51);">：自我介绍 + 结构化面试 + 半结构化面试 + 无领导小组讨论。</font>
++ <font style="color:rgb(51, 51, 51);">offer第④步：</font>**<font style="color:rgb(51, 51, 51);">面试篇(互联网)</font>**<font style="color:rgb(51, 51, 51);">：自我介绍 + 项目问答 + 场景题 + 八股文 + 手撕算法 + 反问环节。</font>
++ <font style="color:rgb(51, 51, 51);">offer第⑤步：</font>**<font style="color:rgb(51, 51, 51);">终结</font>**<font style="color:rgb(51, 51, 51);">：谈薪技巧 + offer选择 + 入职事宜</font>
+
+
+
 # 校招科普一点通
 1. [春招 & 秋招 & 暑期实习 完整时间线梳理](https://www.yuque.com/offer-guide/ttxsdi)
     1. [大三下学期 4月 — 7月：投递并暑期实习](https://www.yuque.com/offer-guide/ttxsdi/ckbtkmihhdfo5hl2#FEN7L)
