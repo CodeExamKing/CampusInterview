@@ -1,134 +1,134 @@
 # 校招科普一点通
-1. [春招 & 秋招 & 暑期实习 完整时间线梳理](https://www.yuque.com/offer-guide/ttxsdi/ckbtkmihhdfo5hl2#rNz58)
+1. [春招 & 秋招 & 暑期实习 完整时间线梳理](https://www.yuque.com/offer-guide/ttxsdi)
     1. [大三下学期 4月 — 7月：投递并暑期实习](https://www.yuque.com/offer-guide/ttxsdi/ckbtkmihhdfo5hl2#FEN7L)
-    2. [大四上学期 7月 — 11月：秋招](https://www.yuque.com/offer-guide/ttxsdi/ckbtkmihhdfo5hl2#emsLc)
-    3. [大四下学期 1月 — 5月：春招](https://www.yuque.com/offer-guide/ttxsdi/ckbtkmihhdfo5hl2#WRetl)
-    4. [秋招 VS 春招 ](https://www.yuque.com/offer-guide/ttxsdi/ckbtkmihhdfo5hl2#MYSq2)
-2. [校招完整流程](https://www.yuque.com/offer-guide/ttxsdi/ckbtkmihhdfo5hl2#qFkPP)
-    1. [流程 ①：获取 春招&秋招&暑期实习 招聘信息](https://www.yuque.com/offer-guide/ttxsdi/ckbtkmihhdfo5hl2#nvCSk)
-    2. [流程 ②：网申/内推/投递](https://www.yuque.com/offer-guide/ttxsdi/ckbtkmihhdfo5hl2#M9CDC)
-    3. [流程 ③：简历筛选，面试官在筛选简历的时候比较看重什么？](https://www.yuque.com/offer-guide/ttxsdi/ckbtkmihhdfo5hl2#mZCxQ)
-    4. [流程 ④：行测测评 OR 专业笔试](https://www.yuque.com/offer-guide/ttxsdi/ckbtkmihhdfo5hl2#dBHXq)
-    5. [流程 ⑤：2-3 轮技术面试](https://www.yuque.com/offer-guide/ttxsdi/ckbtkmihhdfo5hl2#QvbAd)
-    6. [流程 ⑥：HR 面](https://www.yuque.com/offer-guide/ttxsdi/ckbtkmihhdfo5hl2#QvbAd)
-    7. [流程 ⑦： 发offer 意向邮件](https://www.yuque.com/offer-guide/ttxsdi/ckbtkmihhdfo5hl2#CiLne)
-3. [校招一场面试详细过程（互联网技术篇）](https://www.yuque.com/offer-guide/ttxsdi/ckbtkmihhdfo5hl2#eXr3f)
-    1. [校招面试考察重点](https://www.yuque.com/offer-guide/ttxsdi/ckbtkmihhdfo5hl2#oZME8)
-    2. [自我介绍](https://www.yuque.com/offer-guide/ttxsdi/ckbtkmihhdfo5hl2#hacnl)
-    3. [项目经历和实习经历](https://www.yuque.com/offer-guide/ttxsdi/ckbtkmihhdfo5hl2#JBLQz)
-    4. [计算机八股文](计算机八股文)
-    5. [手撕算法题](https://www.yuque.com/offer-guide/ttxsdi/ckbtkmihhdfo5hl2#I8khg)
-    6. [反问环节](https://www.yuque.com/offer-guide/ttxsdi/ckbtkmihhdfo5hl2#CaQIP)
-4. [校招一场面试详细过程（央国企银行篇）](https://www.yuque.com/offer-guide/ttxsdi/ckbtkmihhdfo5hl2#gpp0t)
-    1. [校招面试考察重点](https://www.yuque.com/offer-guide/ttxsdi/lmnscg16h79n3gfa)
-    2. [自我介绍](https://www.yuque.com/offer-guide/ttxsdi/lmnscg16h79n3gfa)
-    3. [结构化问题](https://www.yuque.com/offer-guide/ttxsdi/lmnscg16h79n3gfa)
-    4. [半结构化问题](https://www.yuque.com/offer-guide/ttxsdi/lmnscg16h79n3gfa)
-    5. [无领导小组讨论](https://www.yuque.com/offer-guide/ttxsdi/lmnscg16h79n3gfa)
-    6. [反问环节](https://www.yuque.com/offer-guide/ttxsdi/lmnscg16h79n3gfa)
-5. [录用](录用)
-    1. [三方协议](https://www.yuque.com/offer-guide/ttxsdi/ckbtkmihhdfo5hl2#Brspg)
-    2. [两方协议](https://www.yuque.com/offer-guide/ttxsdi/ckbtkmihhdfo5hl2#c1Fxn)
-    3. [毁约](https://www.yuque.com/offer-guide/ttxsdi/ckbtkmihhdfo5hl2#f2lW5)
-    4. [offer 待遇构成](https://www.yuque.com/offer-guide/ttxsdi/ckbtkmihhdfo5hl2#nned3)
-    5. [派遣证 OR 报到证](https://www.yuque.com/offer-guide/ttxsdi/ckbtkmihhdfo5hl2#fZeux)
-    6. [试用期](https://www.yuque.com/offer-guide/ttxsdi/ckbtkmihhdfo5hl2#VnX9p)
-    7. [拒绝Offer的模板](https://www.yuque.com/offer-guide/ttxsdi/ckbtkmihhdfo5hl2#LsCsM)
+    2. [大四上学期 7月 — 11月：秋招](https://www.yuque.com/offer-guide/ttxsdi)
+    3. [大四下学期 1月 — 5月：春招](https://www.yuque.com/offer-guide/ttxsdi)
+    4. [秋招 VS 春招 ](https://www.yuque.com/offer-guide/ttxsdi)
+2. [校招完整流程](https://www.yuque.com/offer-guide/ttxsdi)
+    1. [流程 ①：获取 春招&秋招&暑期实习 招聘信息](https://www.yuque.com/offer-guide/ttxsdi)
+    2. [流程 ②：网申/内推/投递](https://www.yuque.com/offer-guide/ttxsdi)
+    3. [流程 ③：简历筛选，面试官在筛选简历的时候比较看重什么？](https://www.yuque.com/offer-guide/ttxsdi)
+    4. [流程 ④：行测测评 OR 专业笔试](https://www.yuque.com/offer-guide/ttxsdi)
+    5. [流程 ⑤：2-3 轮技术面试](https://www.yuque.com/offer-guide/ttxsdi)
+    6. [流程 ⑥：HR 面](https://www.yuque.com/offer-guide/ttxsdi)
+    7. [流程 ⑦： 发offer 意向邮件](https://www.yuque.com/offer-guide/ttxsdi)
+3. [校招一场面试详细过程（互联网技术篇）](https://www.yuque.com/offer-guide/ttxsdi)
+    1. [校招面试考察重点](https://www.yuque.com/offer-guide/ttxsdi)
+    2. [自我介绍](https://www.yuque.com/offer-guide/ttxsdi)
+    3. [项目经历和实习经历](https://www.yuque.com/offer-guide/ttxsdi)
+    4. [计算机八股文](https://www.yuque.com/offer-guide/ttxsdi)
+    5. [手撕算法题](https://www.yuque.com/offer-guide/ttxsdi)
+    6. [反问环节](https://www.yuque.com/offer-guide/ttxsdi)
+4. [校招一场面试详细过程（央国企银行篇）](https://www.yuque.com/offer-guide/ttxsdi)
+    1. [校招面试考察重点](https://www.yuque.com/offer-guide/ttxsdi)
+    2. [自我介绍](https://www.yuque.com/offer-guide/ttxsdi)
+    3. [结构化问题](https://www.yuque.com/offer-guide/ttxsdi)
+    4. [半结构化问题](https://www.yuque.com/offer-guide/ttxsdi)
+    5. [无领导小组讨论](https://www.yuque.com/offer-guide/ttxsdi)
+    6. [反问环节](https://www.yuque.com/offer-guide/ttxsdi)
+5. [录用](https://www.yuque.com/offer-guide/ttxsdi)
+    1. [三方协议](https://www.yuque.com/offer-guide/ttxsdi)
+    2. [两方协议](https://www.yuque.com/offer-guide/ttxsdi)
+    3. [毁约](https://www.yuque.com/offer-guide/ttxsdi)
+    4. [offer 待遇构成](https://www.yuque.com/offer-guide/ttxsdi)
+    5. [派遣证 OR 报到证](https://www.yuque.com/offer-guide/ttxsdi)
+    6. [试用期](https://www.yuque.com/offer-guide/ttxsdi)
+    7. [拒绝Offer的模板](https://www.yuque.com/offer-guide/ttxsdi)
 6. 其他内容
-    1. [海归落户流程，北上广深杭](https://www.yuque.com/offer-guide/ttxsdi/eie20irpfno07nlc)
-    2. [互联网公司大盘点（按城市分类）](https://www.yuque.com/offer-guide/ttxsdi/gtzoa3ixob33ymmv#H8zvQ)
+    1. [海归落户流程，北上广深杭](https://www.yuque.com/offer-guide/ttxsdi)
+    2. [互联网公司大盘点（按城市分类）](https://www.yuque.com/offer-guide/ttxsdi)
 
 # offer第1步：简历修改篇
-### [《简历这么写，100%通过筛选》（互联网技术篇）](https://www.yuque.com/offer-guide/ttxsdi/by2dql4xhdrtbyt4)
-### [《简历这么写，100%通过筛选》（互联网非技术 + 银行 + 央国企篇）](https://www.yuque.com/offer-guide/ttxsdi/elrf121xvv52zffl)
-### [优质简历模板下载](https://www.yuque.com/offer-guide/ttxsdi/tecnm9smui3ed7pg)
-1. [《简历这么写，100%通过筛选》（互联网技术篇）](https://www.yuque.com/offer-guide/ttxsdi/by2dql4xhdrtbyt4)
-    1. [简历重要性](https://www.yuque.com/offer-guide/ttxsdi/by2dql4xhdrtbyt4#vD7bC)
-    2. [联系方式](https://www.yuque.com/offer-guide/ttxsdi/by2dql4xhdrtbyt4#MvuBt)
-    3. [个人基本信息](https://www.yuque.com/offer-guide/ttxsdi/by2dql4xhdrtbyt4#IWXEO)
-    4. [教育经历](https://www.yuque.com/offer-guide/ttxsdi/by2dql4xhdrtbyt4#Lb4NH)
-    5. [专业技能](https://www.yuque.com/offer-guide/ttxsdi/by2dql4xhdrtbyt4#tLkF3)
-        1. [前端开发 专业技能](https://www.yuque.com/offer-guide/ttxsdi/by2dql4xhdrtbyt4#gjbnN)
-        2. [后端开发 C++ 专业技能](https://www.yuque.com/offer-guide/ttxsdi/by2dql4xhdrtbyt4#QHIGH)
-        3. [后端开发 Java 专业技能](https://www.yuque.com/offer-guide/ttxsdi/by2dql4xhdrtbyt4#o5B6N)
-        4. [后端开发 Go 专业技能](https://www.yuque.com/offer-guide/ttxsdi/by2dql4xhdrtbyt4#d454n)
-        5. [算法岗 专业技能](https://www.yuque.com/offer-guide/ttxsdi/by2dql4xhdrtbyt4#Wm5D0)
-        6. [测开岗 专业技能](https://www.yuque.com/offer-guide/ttxsdi/by2dql4xhdrtbyt4#p12Fx)
-        7. [Android安卓 专业技能](https://www.yuque.com/offer-guide/ttxsdi/by2dql4xhdrtbyt4#FIaop)
-    6. [实习经历 &项目经历](https://www.yuque.com/offer-guide/ttxsdi/by2dql4xhdrtbyt4#c3XOh)
-        1. [采用 star 法则写项目经历 & 实习经历](https://www.yuque.com/offer-guide/ttxsdi/by2dql4xhdrtbyt4#Xqmdj)
-        2. [项目经历介绍模板](https://www.yuque.com/offer-guide/ttxsdi/by2dql4xhdrtbyt4#ftgR1)
-        3. [项目描述](https://www.yuque.com/offer-guide/ttxsdi/by2dql4xhdrtbyt4#EsMwf)
-        4. [项目技术栈](https://www.yuque.com/offer-guide/ttxsdi/by2dql4xhdrtbyt4#irCHS)
-        5. [个人职责/负责内容/产出](https://www.yuque.com/offer-guide/ttxsdi/by2dql4xhdrtbyt4#IzgYP)
-        6. [项目成果(可选)](https://www.yuque.com/offer-guide/ttxsdi/by2dql4xhdrtbyt4#P89Ob)
+### [《简历这么写，100%通过筛选》（互联网技术篇）](https://www.yuque.com/offer-guide/ttxsdi)
+### [《简历这么写，100%通过筛选》（互联网非技术 + 银行 + 央国企篇）](https://www.yuque.com/offer-guide/ttxsdi)
+### [优质简历模板下载](https://www.yuque.com/offer-guide/ttxsdi)
+1. [《简历这么写，100%通过筛选》（互联网技术篇）](https://www.yuque.com/offer-guide/ttxsdi)
+    1. [简历重要性](https://www.yuque.com/offer-guide/ttxsdi)
+    2. [联系方式](https://www.yuque.com/offer-guide/ttxsdi)
+    3. [个人基本信息](https://www.yuque.com/offer-guide/ttxsdi)
+    4. [教育经历](https://www.yuque.com/offer-guide/ttxsdi)
+    5. [专业技能](https://www.yuque.com/offer-guide/ttxsdi)
+        1. [前端开发 专业技能](https://www.yuque.com/offer-guide/ttxsdi)
+        2. [后端开发 C++ 专业技能](https://www.yuque.com/offer-guide/ttxsdi)
+        3. [后端开发 Java 专业技能](https://www.yuque.com/offer-guide/ttxsdi)
+        4. [后端开发 Go 专业技能](https://www.yuque.com/offer-guide/ttxsdi)
+        5. [算法岗 专业技能](https://www.yuque.com/offer-guide/ttxsdi)
+        6. [测开岗 专业技能](https://www.yuque.com/offer-guide/ttxsdi)
+        7. [Android安卓 专业技能](https://www.yuque.com/offer-guide/ttxsdi)
+    6. [实习经历 &项目经历](https://www.yuque.com/offer-guide/ttxsdi)
+        1. [采用 star 法则写项目经历 & 实习经历](https://www.yuque.com/offer-guide/ttxsdi)
+        2. [项目经历介绍模板](https://www.yuque.com/offer-guide/ttxsdi)
+        3. [项目描述](https://www.yuque.com/offer-guide/ttxsdi)
+        4. [项目技术栈](https://www.yuque.com/offer-guide/ttxsdi)
+        5. [个人职责/负责内容/产出](https://www.yuque.com/offer-guide/ttxsdi)
+        6. [项目成果(可选)](https://www.yuque.com/offer-guide/ttxsdi)
         7. [个人收获(可选)](https://www.yuque.com/offer-guide/ttxsdi/by2dql4xhdrtbyt4#JVXJv)
-        8. [注意些额外的细节](https://www.yuque.com/offer-guide/ttxsdi/by2dql4xhdrtbyt4#DIoyU)
-    7. [项目经历实例：结合 star 法则写项目经历](https://www.yuque.com/offer-guide/ttxsdi/by2dql4xhdrtbyt4#wufh9)
-    8. [项目经历实例：结合 PAR 法则写难点和亮点](https://www.yuque.com/offer-guide/ttxsdi/by2dql4xhdrtbyt4#QQQP2)
-    9. [致谢+科研+荣誉奖项+自我评价](https://www.yuque.com/offer-guide/ttxsdi/by2dql4xhdrtbyt4#M2HSq)
-        1. [致谢(可选)](https://www.yuque.com/offer-guide/ttxsdi/by2dql4xhdrtbyt4#g22Ms)
-        2. [荣誉奖项(可选)](https://www.yuque.com/offer-guide/ttxsdi/by2dql4xhdrtbyt4#rn1Vt)
-        3. [校园经历(可选)](https://www.yuque.com/offer-guide/ttxsdi/by2dql4xhdrtbyt4#kGUMU)
-        4. [个人评价/自我评价(可选)](https://www.yuque.com/offer-guide/ttxsdi/by2dql4xhdrtbyt4#dPvbN)
-    10. [排版及注意事项](https://www.yuque.com/offer-guide/ttxsdi/by2dql4xhdrtbyt4#PE6Q7)
-        1. [简历模板](https://www.yuque.com/offer-guide/ttxsdi/by2dql4xhdrtbyt4#paaOG)
-        2. [页数](https://www.yuque.com/offer-guide/ttxsdi/by2dql4xhdrtbyt4#lsjeh)
-        3. [各模块排版顺序](https://www.yuque.com/offer-guide/ttxsdi/by2dql4xhdrtbyt4#QGPtC)
-        4. [简历文件格式](https://www.yuque.com/offer-guide/ttxsdi/by2dql4xhdrtbyt4#p2sDS)
-        5. [简历文件命名](https://www.yuque.com/offer-guide/ttxsdi/by2dql4xhdrtbyt4#FWvts)
-        6. [排版细节](https://www.yuque.com/offer-guide/ttxsdi/by2dql4xhdrtbyt4#pUuKR)
-        7. [参考资料](https://www.yuque.com/offer-guide/ttxsdi/by2dql4xhdrtbyt4#Wx8RY)
+        8. [注意些额外的细节](https://www.yuque.com/offer-guide/ttxsdi)
+    7. [项目经历实例：结合 star 法则写项目经历](https://www.yuque.com/offer-guide/ttxsdi)
+    8. [项目经历实例：结合 PAR 法则写难点和亮点](https://www.yuque.com/offer-guide/ttxsdi)
+    9. [致谢+科研+荣誉奖项+自我评价](https://www.yuque.com/offer-guide/ttxsdi)
+        1. [致谢(可选)](https://www.yuque.com/offer-guide/ttxsdi)
+        2. [荣誉奖项(可选)](https://www.yuque.com/offer-guide/ttxsdi)
+        3. [校园经历(可选)](https://www.yuque.com/offer-guide/ttxsdi)
+        4. [个人评价/自我评价(可选)](https://www.yuque.com/offer-guide/ttxsdi)
+    10. [排版及注意事项](https://www.yuque.com/offer-guide/ttxsdi)
+        1. [简历模板](https://www.yuque.com/offer-guide/ttxsdi)
+        2. [页数](https://www.yuque.com/offer-guide/ttxsdi)
+        3. [各模块排版顺序](https://www.yuque.com/offer-guide/ttxsdi)
+        4. [简历文件格式](https://www.yuque.com/offer-guide/ttxsdi)
+        5. [简历文件命名](https://www.yuque.com/offer-guide/ttxsdi)
+        6. [排版细节](https://www.yuque.com/offer-guide/ttxsdi)
+        7. [参考资料](https://www.yuque.com/offer-guide/ttxsdi)
 
-1. [《简历这么写，100%通过筛选》（互联网技术篇）](https://www.yuque.com/offer-guide/ttxsdi/by2dql4xhdrtbyt4)
-2. [《简历这么写，100%通过筛选》（互联网非技术 + 银行 + 央国企篇）](https://www.yuque.com/offer-guide/ttxsdi/elrf121xvv52zffl)
-    1. [优质简历样例](https://www.yuque.com/offer-guide/ttxsdi/elrf121xvv52zffl#nN95Z)
-    2. [基本信息](https://www.yuque.com/offer-guide/ttxsdi/elrf121xvv52zffl#ojY75)
-    3. [教育经历](https://www.yuque.com/offer-guide/ttxsdi/elrf121xvv52zffl#Jmp80)
-    4. [实习经历/工作经历](https://www.yuque.com/offer-guide/ttxsdi/elrf121xvv52zffl#xDxVD)
-        1. [行政岗实习经历写法](https://www.yuque.com/offer-guide/ttxsdi/elrf121xvv52zffl#eMql1)
-        2. [人力资源/HRBP岗实习经历写法](https://www.yuque.com/offer-guide/ttxsdi/elrf121xvv52zffl#XibGA)
-        3. [产品岗实习经历写法](https://www.yuque.com/offer-guide/ttxsdi/elrf121xvv52zffl#rkli2)
-        4. [财务岗实习经历写法](https://www.yuque.com/offer-guide/ttxsdi/elrf121xvv52zffl#yFCo0)
-        5. [新媒体运营岗实习经历写法](https://www.yuque.com/offer-guide/ttxsdi/elrf121xvv52zffl#gVcuO)
-    5. [项目经历](https://www.yuque.com/offer-guide/ttxsdi/elrf121xvv52zffl#dSgnb)
-    6. [校园经历](https://www.yuque.com/offer-guide/ttxsdi/elrf121xvv52zffl#LRuW4)
-        1. [面试”活动策划“岗位](https://www.yuque.com/offer-guide/ttxsdi/elrf121xvv52zffl#mJMJo)
-        2. [面试”市场营销“岗位](https://www.yuque.com/offer-guide/ttxsdi/elrf121xvv52zffl#vBZuC)
-        3. [面试”新媒体运营“岗位](https://www.yuque.com/offer-guide/ttxsdi/elrf121xvv52zffl#RAbof)
-        4. [校园经历各"经历“写法](https://www.yuque.com/offer-guide/ttxsdi/elrf121xvv52zffl#Zge9l)
-    7. [专业技能](https://www.yuque.com/offer-guide/ttxsdi/elrf121xvv52zffl#VK54v)
-    8. [自我评价](https://www.yuque.com/offer-guide/ttxsdi/elrf121xvv52zffl#b4fBZ)
-        1. [行政/活动策划/采购岗自我评价](https://www.yuque.com/offer-guide/ttxsdi/elrf121xvv52zffl#tXedX)
-        2. [HR/人力资源岗自我评价](https://www.yuque.com/offer-guide/ttxsdi/elrf121xvv52zffl#ooDhe)
-        3. [财务会计岗自我评价](https://www.yuque.com/offer-guide/ttxsdi/elrf121xvv52zffl#UiIXw)
-        4. [新媒体运营岗自我评价](https://www.yuque.com/offer-guide/ttxsdi/elrf121xvv52zffl#kwaPh)
-        5. [产品岗自我评价](https://www.yuque.com/offer-guide/ttxsdi/elrf121xvv52zffl#i8jTL)
-    9. [注意事项](https://www.yuque.com/offer-guide/ttxsdi/elrf121xvv52zffl#pZjds)
-3. [优质简历模板下载](https://www.yuque.com/offer-guide/ttxsdi/tecnm9smui3ed7pg)
-    1. [优质简历模板下载](https://www.yuque.com/offer-guide/ttxsdi/tecnm9smui3ed7pg#tRtdG)
-    2. [银行考生优秀简历合辑](https://www.yuque.com/offer-guide/ttxsdi/ghxd8g2uurf9at1i)
-    3. [央国企优秀简历合集](https://www.yuque.com/offer-guide/ttxsdi/ghxd8g2uurf9at1i)
+1. [《简历这么写，100%通过筛选》（互联网技术篇）](https://www.yuque.com/offer-guide/ttxsdi)
+2. [《简历这么写，100%通过筛选》（互联网非技术 + 银行 + 央国企篇）](https://www.yuque.com/offer-guide/ttxsdi)
+    1. [优质简历样例](https://www.yuque.com/offer-guide/ttxsdi)
+    2. [基本信息](https://www.yuque.com/offer-guide/ttxsdi)
+    3. [教育经历](https://www.yuque.com/offer-guide/ttxsdi)
+    4. [实习经历/工作经历](https://www.yuque.com/offer-guide/ttxsdi)
+        1. [行政岗实习经历写法](https://www.yuque.com/offer-guide/ttxsdi)
+        2. [人力资源/HRBP岗实习经历写法](https://www.yuque.com/offer-guide/ttxsdi)
+        3. [产品岗实习经历写法](https://www.yuque.com/offer-guide/ttxsdi)
+        4. [财务岗实习经历写法](https://www.yuque.com/offer-guide/ttxsdi)
+        5. [新媒体运营岗实习经历写法](https://www.yuque.com/offer-guide/ttxsdi)
+    5. [项目经历](https://www.yuque.com/offer-guide/ttxsdi)
+    6. [校园经历](https://www.yuque.com/offer-guide/ttxsdi)
+        1. [面试”活动策划“岗位](https://www.yuque.com/offer-guide/ttxsdi)
+        2. [面试”市场营销“岗位](https://www.yuque.com/offer-guide/ttxsdi)
+        3. [面试”新媒体运营“岗位](https://www.yuque.com/offer-guide/ttxsdi)
+        4. [校园经历各"经历“写法](https://www.yuque.com/offer-guide/ttxsdi)
+    7. [专业技能](https://www.yuque.com/offer-guide/ttxsdi)
+    8. [自我评价](https://www.yuque.com/offer-guide/ttxsdi)
+        1. [行政/活动策划/采购岗自我评价](https://www.yuque.com/offer-guide/ttxsdi)
+        2. [HR/人力资源岗自我评价](https://www.yuque.com/offer-guide/ttxsdi)
+        3. [财务会计岗自我评价](https://www.yuque.com/offer-guide/ttxsdi)
+        4. [新媒体运营岗自我评价](https://www.yuque.com/offer-guide/ttxsdi)
+        5. [产品岗自我评价](https://www.yuque.com/offer-guide/ttxsdi)
+    9. [注意事项](https://www.yuque.com/offer-guide/ttxsdi)
+3. [优质简历模板下载](https://www.yuque.com/offer-guide/ttxsdi)
+    1. [优质简历模板下载](https://www.yuque.com/offer-guide/ttxsdi)
+    2. [银行考生优秀简历合辑](https://www.yuque.com/offer-guide/ttxsdi)
+    3. [央国企优秀简历合集](https://www.yuque.com/offer-guide/ttxsdi)
 
 
 
 # offer第2步：网申投递篇
-### [投递表汇总 15+](https://www.yuque.com/offer-guide/ttxsdi/biuudc4h3sqgsp7v)
+### [投递表汇总 15+](https://www.yuque.com/offer-guide/ttxsdi)
 ![](https://cdn.nlark.com/yuque/0/2024/png/999080/1730409150867-1639ca5a-00c2-47dc-8e83-698782e1cc66.png)
 
 
 
-### [六大行网申模板](https://www.yuque.com/offer-guide/ttxsdi/dydl8d5249gmargh)
+### [六大行网申模板](https://www.yuque.com/offer-guide/ttxsdi)
 ![](https://cdn.nlark.com/yuque/0/2024/png/999080/1730103918037-ee997ab3-2557-45b9-97e5-b7c28ccbae3d.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_13%2Ctext_5YWs5LyX5Y-377ya56yU6Z2i546L6ICF%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10%2Fformat%2Cwebp)
 
 
 
-### [全网最全大厂内推码合集 350+](https://www.yuque.com/offer-guide/ttxsdi/znti48e698td1ihg)
+### [全网最全大厂内推码合集 350+](https://www.yuque.com/offer-guide/ttxsdi)
 ![](https://cdn.nlark.com/yuque/0/2024/png/999080/1730409005809-69f8ed56-112b-41d7-8ba0-ca19535601b3.png)
 
 
 
-### [央国企名录全集 1500+](https://www.yuque.com/offer-guide/ttxsdi/uztlp8x1217kc241#Gkw1)
+### [央国企名录全集 1500+](https://www.yuque.com/offer-guide/ttxsdi)
 ![](https://cdn.nlark.com/yuque/0/2024/png/999080/1730409130396-c65f9e04-1641-4862-9e4b-33bacc233a41.png)
 
 
@@ -429,52 +429,52 @@
 
 
 # offer第4步：校招面试真题篇（央国企和银行）
-### [【重要】秒杀”面试主观题”(银行|央国企|各岗位通用)](https://www.yuque.com/offer-guide/ttxsdi/fgmdiuql76wp4txd)
-### [【重要】央国企/银行，面试通用](https://www.yuque.com/offer-guide/ttxsdi/pfe6b33b2sk3mrhd)
+### [【重要】秒杀”面试主观题”(银行|央国企|各岗位通用)](https://www.yuque.com/offer-guide/ttxsdi)
+### [【重要】央国企/银行，面试通用](https://www.yuque.com/offer-guide/ttxsdi)
 ### 【通用】笔面王者：结构化面试
-1. [结构化面试：概述](https://www.yuque.com/offer-guide/ttxsdi/zp5dgk4gdzqe8pxh)
-2. [结构化面试：面试流程](https://www.yuque.com/offer-guide/ttxsdi/km3lm9f2ngcbogdn)
-3. [结构化面试：面试真题](https://www.yuque.com/offer-guide/ttxsdi/rxkvaf00kcbd1pxv)
-4. [结构化面试：应试技巧](https://www.yuque.com/offer-guide/ttxsdi/dtkpy3tk8pqegu5a)
-5. [结构化面试：5种题型答题框架](https://www.yuque.com/offer-guide/ttxsdi/cyu5i2xiyc3swvk2)
-6. [结构化面试：答题金句](https://www.yuque.com/offer-guide/ttxsdi/mgxvdhxkxnh8vfwq)
-7. [结构化面试：考察因素及备考建议](https://www.yuque.com/offer-guide/ttxsdi/tghhpggl2366073l)
-8. [结构化面试：历年面试真题](https://www.yuque.com/offer-guide/ttxsdi/ppwx2spfd1giikt1)
+1. [结构化面试：概述](https://www.yuque.com/offer-guide/ttxsdi)
+2. [结构化面试：面试流程](https://www.yuque.com/offer-guide/ttxsdi)
+3. [结构化面试：面试真题](https://www.yuque.com/offer-guide/ttxsdi)
+4. [结构化面试：应试技巧](https://www.yuque.com/offer-guide/ttxsdi)
+5. [结构化面试：5种题型答题框架](https://www.yuque.com/offer-guide/ttxsdi)
+6. [结构化面试：答题金句](https://www.yuque.com/offer-guide/ttxsdi)
+7. [结构化面试：考察因素及备考建议](https://www.yuque.com/offer-guide/ttxsdi)
+8. [结构化面试：历年面试真题](https://www.yuque.com/offer-guide/ttxsdi)
 
 ### 【通用】笔面王者：半结构化面试
-1. [半结构化面试：概述与流程](https://www.yuque.com/offer-guide/ttxsdi/cx1fk6xf5ouh13kl)
-2. [半结构化面试：考核参考表](https://www.yuque.com/offer-guide/ttxsdi/rutu9kvd066h9zoe)
-3. [半结构化面试：真题荟萃](https://www.yuque.com/offer-guide/ttxsdi/nu0kxp4bosh8kgkn)
-4. [半结构化面试：考察能力分类](https://www.yuque.com/offer-guide/ttxsdi/gfxsh71d2s0vvhg4)
-5. [全新银行秋招面试半结构化面试必考60题](https://www.yuque.com/offer-guide/ttxsdi/ofb4dusucgg1xmew)
-6. [全新银行秋招面试半结构化面试必考50题](https://www.yuque.com/offer-guide/ttxsdi/cwtwom00gks3o0ul)
+1. [半结构化面试：概述与流程](https://www.yuque.com/offer-guide/ttxsdi)
+2. [半结构化面试：考核参考表](https://www.yuque.com/offer-guide/ttxsdi)
+3. [半结构化面试：真题荟萃](https://www.yuque.com/offer-guide/ttxsdi)
+4. [半结构化面试：考察能力分类](https://www.yuque.com/offer-guide/ttxsdi)
+5. [全新银行秋招面试半结构化面试必考60题](https://www.yuque.com/offer-guide/ttxsdi)
+6. [全新银行秋招面试半结构化面试必考50题](https://www.yuque.com/offer-guide/ttxsdi)
 
 ### 【通用】笔面王者：无领导小组讨论
-1. [无领导小组讨论：面试概述](https://www.yuque.com/offer-guide/ttxsdi/ugihux5hpy6xgqbd)
-2. [无领导小组讨论：面试流程](https://www.yuque.com/offer-guide/ttxsdi/ms3gcigu57kc85v3)
-3. [无领导小组讨论：评分参考](https://www.yuque.com/offer-guide/ttxsdi/otoblzu4p5csgb4g)
-4. [无领导小组讨论：面试礼仪](https://www.yuque.com/offer-guide/ttxsdi/ta97drulq1wybcuh)
-5. [无领导小组讨论：题型分类](https://www.yuque.com/offer-guide/ttxsdi/kg6wdfp3ehrhghpg)
-6. [无领导小组讨论：加分项与减分项](https://www.yuque.com/offer-guide/ttxsdi/zke83ndyeogqwuca)
-7. [无领导小组讨论：角色选择](https://www.yuque.com/offer-guide/ttxsdi/qzp4hrnwka5w3nen)
-8. [无领导小组讨论：面试内容](https://www.yuque.com/offer-guide/ttxsdi/imxm950fsbo3240v)
-9. [无领导小组 面试官经验分享](https://www.yuque.com/offer-guide/ttxsdi/thv8wqxbl8lzqi3x)
-10. [优质经验分享](https://www.yuque.com/offer-guide/ttxsdi/tht45wq320hh9x7k)
-11. [实战经历详解](https://www.yuque.com/offer-guide/ttxsdi/zi921s33yfz3uhhv)
-12. [世界500 强LGD 面试题经典案例](https://www.yuque.com/offer-guide/ttxsdi/xc4gfsanyifm34pf)
+1. [无领导小组讨论：面试概述](https://www.yuque.com/offer-guide/ttxsdi)
+2. [无领导小组讨论：面试流程](https://www.yuque.com/offer-guide/ttxsdi)
+3. [无领导小组讨论：评分参考](https://www.yuque.com/offer-guide/ttxsdi)
+4. [无领导小组讨论：面试礼仪](https://www.yuque.com/offer-guide/ttxsdi)
+5. [无领导小组讨论：题型分类](https://www.yuque.com/offer-guide/ttxsdi)
+6. [无领导小组讨论：加分项与减分项](https://www.yuque.com/offer-guide/ttxsdi)
+7. [无领导小组讨论：角色选择](https://www.yuque.com/offer-guide/ttxsdi)
+8. [无领导小组讨论：面试内容](https://www.yuque.com/offer-guide/ttxsdi)
+9. [无领导小组 面试官经验分享](https://www.yuque.com/offer-guide/ttxsdi)
+10. [优质经验分享](https://www.yuque.com/offer-guide/ttxsdi)
+11. [实战经历详解](https://www.yuque.com/offer-guide/ttxsdi)
+12. [世界500 强LGD 面试题经典案例](https://www.yuque.com/offer-guide/ttxsdi)
 
 ### 央国企面试真题篇
-| - [x] [中国移动](https://www.yuque.com/offer-guide/ttxsdi/pfe6b33b2sk3mrhd)<br/>- [x] [中国电信](https://www.yuque.com/offer-guide/ttxsdi/pfe6b33b2sk3mrhd)<br/>- [x] [中国联通](https://www.yuque.com/offer-guide/ttxsdi/pfe6b33b2sk3mrhd)<br/>- [x] [中国石油](https://www.yuque.com/offer-guide/ttxsdi/pfe6b33b2sk3mrhd)<br/>- [x] [中国石化](https://www.yuque.com/offer-guide/ttxsdi/pfe6b33b2sk3mrhd)<br/>- [x] [中国海油](https://www.yuque.com/offer-guide/ttxsdi/pfe6b33b2sk3mrhd)<br/>- [x] [中国烟草](https://www.yuque.com/offer-guide/ttxsdi/pfe6b33b2sk3mrhd)<br/>- [x] [中国铁路](https://www.yuque.com/offer-guide/ttxsdi/pfe6b33b2sk3mrhd) | - [x] [中国交建](https://www.yuque.com/offer-guide/ttxsdi/pfe6b33b2sk3mrhd)<br/>- [x] [中国建筑](https://www.yuque.com/offer-guide/ttxsdi/pfe6b33b2sk3mrhd)<br/>- [x] [国家能源](https://www.yuque.com/offer-guide/ttxsdi/pfe6b33b2sk3mrhd)<br/>- [x] [南方电网](https://www.yuque.com/offer-guide/ttxsdi/pfe6b33b2sk3mrhd)<br/>- [x] [国家电网](https://www.yuque.com/offer-guide/ttxsdi/pfe6b33b2sk3mrhd)<br/>- [x] [中国外运](https://www.yuque.com/offer-guide/ttxsdi/pfe6b33b2sk3mrhd)<br/>- [x] [中国铁塔](https://www.yuque.com/offer-guide/ttxsdi/pfe6b33b2sk3mrhd)<br/>- [x] [中国邮政](https://www.yuque.com/offer-guide/ttxsdi/pfe6b33b2sk3mrhd) | - [x] [中国交建](https://www.yuque.com/offer-guide/ttxsdi/pfe6b33b2sk3mrhd)<br/>- [x] [中国建筑](https://www.yuque.com/offer-guide/ttxsdi/pfe6b33b2sk3mrhd)<br/>- [x] [国家能源](https://www.yuque.com/offer-guide/ttxsdi/pfe6b33b2sk3mrhd)<br/>- [x] [南方电网](https://www.yuque.com/offer-guide/ttxsdi/pfe6b33b2sk3mrhd)<br/>- [x] [国家电网](https://www.yuque.com/offer-guide/ttxsdi/pfe6b33b2sk3mrhd)<br/>- [x] [中国外运](https://www.yuque.com/offer-guide/ttxsdi/pfe6b33b2sk3mrhd)<br/>- [x] [中国铁塔](https://www.yuque.com/offer-guide/ttxsdi/pfe6b33b2sk3mrhd)<br/>- [x] [中国邮政](https://www.yuque.com/offer-guide/ttxsdi/pfe6b33b2sk3mrhd) |
+| - [x] [中国移动](https://www.yuque.com/offer-guide/ttxsdi)<br/>- [x] [中国电信](https://www.yuque.com/offer-guide/ttxsdi)<br/>- [x] [中国联通](https://www.yuque.com/offer-guide/ttxsdi)<br/>- [x] [中国石油](https://www.yuque.com/offer-guide/ttxsdi)<br/>- [x] [中国石化](https://www.yuque.com/offer-guide/ttxsdi)<br/>- [x] [中国海油](https://www.yuque.com/offer-guide/ttxsdi)<br/>- [x] [中国烟草](https://www.yuque.com/offer-guide/ttxsdi)<br/>- [x] [中国铁路](https://www.yuque.com/offer-guide/ttxsdi) | - [x] [中国交建](https://www.yuque.com/offer-guide/ttxsdi)<br/>- [x] [中国建筑](https://www.yuque.com/offer-guide/ttxsdi)<br/>- [x] [国家能源](https://www.yuque.com/offer-guide/ttxsdi)<br/>- [x] [南方电网](https://www.yuque.com/offer-guide/ttxsdi)<br/>- [x] [国家电网](https://www.yuque.com/offer-guide/ttxsdi)<br/>- [x] [中国外运](https://www.yuque.com/offer-guide/ttxsdi)<br/>- [x] [中国铁塔](https://www.yuque.com/offer-guide/ttxsdi)<br/>- [x] [中国邮政](https://www.yuque.com/offer-guide/ttxsdi) | - [x] [中国交建](https://www.yuque.com/offer-guide/ttxsdi)<br/>- [x] [中国建筑](https://www.yuque.com/offer-guide/ttxsdi)<br/>- [x] [国家能源](https://www.yuque.com/offer-guide/ttxsdi)<br/>- [x] [南方电网](https://www.yuque.com/offer-guide/ttxsdi)<br/>- [x] [国家电网](https://www.yuque.com/offer-guide/ttxsdi)<br/>- [x] [中国外运](https://www.yuque.com/offer-guide/ttxsdi)<br/>- [x] [中国铁塔](https://www.yuque.com/offer-guide/ttxsdi)<br/>- [x] [中国邮政](https://www.yuque.com/offer-guide/ttxsdi) |
 | --- | --- | --- |
 
 
 
 
 ### 银行面试真题篇
-| **<font style="color:#DF2A3F;">中央银行</font>** | [中国人民银行](https://www.yuque.com/offer-guide/ttxsdi/pfe6b33b2sk3mrhd) | | |
+| **<font style="color:#DF2A3F;">中央银行</font>** | [中国人民银行](https://www.yuque.com/offer-guide/ttxsdi) | | |
 | --- | --- | --- | --- |
-| **<font style="color:#DF2A3F;">政策性银行</font>** | [国家开发银行](https://www.yuque.com/offer-guide/ttxsdi/pfe6b33b2sk3mrhd) | [中国进出口银行](https://www.yuque.com/offer-guide/ttxsdi/pfe6b33b2sk3mrhd) | [中国农业发展银行](https://www.yuque.com/offer-guide/ttxsdi/pfe6b33b2sk3mrhd) |
-| **<font style="color:#DF2A3F;">国有商业银行</font>** | [中国工商银行](https://www.yuque.com/offer-guide/ttxsdi/cmpode5ek0yth3hi) | [中国农业银行](https://www.yuque.com/offer-guide/ttxsdi/usg5o4oy2wv1s0qd) | [中国银行](https://www.yuque.com/offer-guide/ttxsdi/lhnsm9nrsz4899hn) |
+| **<font style="color:#DF2A3F;">政策性银行</font>** | [国家开发银行](https://www.yuque.com/offer-guide/ttxsdi) | [中国进出口银行](https://www.yuque.com/offer-guide/ttxsdi/pfe6b33b2sk3mrhd) | [中国农业发展银行](https://www.yuque.com/offer-guide/ttxsdi/pfe6b33b2sk3mrhd) |
+| **<font style="color:#DF2A3F;">国有商业银行</font>** | [中国工商银行](https://www.yuque.com/offer-guide/ttxsdi) | [中国农业银行](https://www.yuque.com/offer-guide/ttxsdi/usg5o4oy2wv1s0qd) | [中国银行](https://www.yuque.com/offer-guide/ttxsdi/lhnsm9nrsz4899hn) |
 | | [中国建设银行](https://www.yuque.com/offer-guide/ttxsdi/ngifotgbos7g26i6) | [中国邮政储蓄银行](https://www.yuque.com/offer-guide/ttxsdi/gz9rdwrk78b5i19v) | [交通银行](https://www.yuque.com/offer-guide/ttxsdi/gdifzyi3rgyzbx8m) |
 | **<font style="color:#DF2A3F;">股份制商业银行</font>** | [招商银行](https://www.yuque.com/offer-guide/ttxsdi/pfe6b33b2sk3mrhd) | [浦发银行](https://www.yuque.com/offer-guide/ttxsdi/pfe6b33b2sk3mrhd) | [中信银行](https://www.yuque.com/offer-guide/ttxsdi/pfe6b33b2sk3mrhd) |
 | | [中国光大银行](https://www.yuque.com/offer-guide/ttxsdi/pfe6b33b2sk3mrhd) | [华夏银行](https://www.yuque.com/offer-guide/ttxsdi/pfe6b33b2sk3mrhd) | [中国民生银行](https://www.yuque.com/offer-guide/ttxsdi/pfe6b33b2sk3mrhd) |
@@ -486,17 +486,17 @@
 
 # offer第4步：校招面试真题篇（互联网）
 ## Java面试宝典：目标25K大厂Offer
-查看详情👉：[Java面试宝典：目标25K大厂Offer](https://www.yuque.com/offer-guide/ttxsdi/hd7ywebgtpsokw65)
+查看详情👉：[Java面试宝典：目标25K大厂Offer](https://www.yuque.com/offer-guide/ttxsdi)
 
 ![](https://cdn.nlark.com/yuque/0/2024/png/999080/1730314116969-01b08b97-bdbd-4d82-8f38-0f86a8b3c691.png)
 
 ## C++面试宝典：目标25K大厂Offer
-查看详情👉：[C++面试宝典：目标25K大厂Offer](https://www.yuque.com/offer-guide/ttxsdi/hd7ywebgtpsokw65)
+查看详情👉：[C++面试宝典：目标25K大厂Offer](https://www.yuque.com/offer-guide/ttxsdi)
 
 ![](https://cdn.nlark.com/yuque/0/2024/png/999080/1730314120689-7afdd0b9-b8db-467f-9ea1-6e2c798b449a.png)
 
 ## 前端面试宝典：目标20K大厂Offer
-查看详情👉：[前端面试宝典：目标20K大厂Offer](https://www.yuque.com/offer-guide/ttxsdi/hd7ywebgtpsokw65)
+查看详情👉：[前端面试宝典：目标20K大厂Offer](https://www.yuque.com/offer-guide/ttxsdi)
 
 ![](https://cdn.nlark.com/yuque/0/2024/png/999080/1730314123017-b91e1dee-e31b-477e-a48e-390e8aee41ab.png)
 
@@ -789,19 +789,19 @@
 
 # offer第5步：HR面 + 谈薪技巧 + offer选择 + 入职
 ## HR 面
-[公司背调需要注意什么？](https://www.yuque.com/offer-guide/ttxsdi/yz773w51l63g3r0h)
+[公司背调需要注意什么？](https://www.yuque.com/offer-guide/ttxsdi)
 
 ## 谈薪技巧
-[公司背调需要注意什么？](https://www.yuque.com/offer-guide/ttxsdi/yz773w51l63g3r0h)
+[公司背调需要注意什么？](https://www.yuque.com/offer-guide/ttxsdi)
 
 ## offer选择
-[公司背调需要注意什么？](https://www.yuque.com/offer-guide/ttxsdi/yz773w51l63g3r0h)
+[公司背调需要注意什么？](https://www.yuque.com/offer-guide/ttxsdi)
 
 ## 背调
-[公司背调需要注意什么？](https://www.yuque.com/offer-guide/ttxsdi/yz773w51l63g3r0h)
+[公司背调需要注意什么？](https://www.yuque.com/offer-guide/ttxsdi)
 
 ## 入职成长
-[公司背调需要注意什么？](https://www.yuque.com/offer-guide/ttxsdi/yz773w51l63g3r0h)
+[公司背调需要注意什么？](https://www.yuque.com/offer-guide/ttxsdi)
 
 
 
